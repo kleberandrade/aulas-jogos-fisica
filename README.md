@@ -14,7 +14,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 - **Funções:** 
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aulas_bowling.PNG" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" height="500"/>
 </p>
 
 
@@ -24,7 +24,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 - **Scripts:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_arkanoid.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_arkanoid.PNG" height="500"/>
 </p>
 
 ### Projeto 3 - Basket
