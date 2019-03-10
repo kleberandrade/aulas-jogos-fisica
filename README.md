@@ -33,7 +33,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 - **Scripts:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_basket.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" height="500"/>
 </p>
 
 ### Projeto 4 - Pênalti
