@@ -36,7 +36,21 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" height="500"/>
 </p>
 
-### Projeto 4 - Pênalti
+### Projeto 4 - Joints
+
+- **Conceitos:**
+- **Scripts:**
+
+### Projeto 5 - Explosão
+
+- **Conceitos:**
+- **Scripts:**
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" height="500"/>
+</p>
+
+### Projeto 6 - Pênalti
 
 - **Conceitos:**
 - **Scripts:**
@@ -45,7 +59,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_penalti.gif" height="500"/>
 </p>
 
-### Projeto 5 - Flechas
+### Projeto 7 - Flechas
 
 - **Conceitos:**
 - **Scripts:**
