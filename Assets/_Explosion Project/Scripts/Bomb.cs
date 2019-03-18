@@ -16,7 +16,8 @@ public class Bomb : MonoBehaviour
         if (Input.GetKeyDown(m_KeyToDetonate))
         {
             m_Explosion.Detonate();
-            Destroy(gameObject, 5.0f);
+            CameraShake.Instance.ShakeOnce(4f, 30.0f);
+            Destroy(gameObject, 0.3f);
         }    
     }
 }

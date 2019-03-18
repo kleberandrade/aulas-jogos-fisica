@@ -9,7 +9,6 @@ public class Explosion : MonoBehaviour
 
     public void Detonate()
     {
-        Debug.Log("Detonate");
         Collider[] colliders = Physics.OverlapSphere(transform.position, m_Radius, m_ColliderMask);
         foreach (Collider collider in colliders)
         {
