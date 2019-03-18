@@ -41,6 +41,8 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 - **Conceitos:**
 - **Scripts:**
 
+<img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" height="500"/>
+
 ### Projeto 5 - Explosão
 
 - **Conceitos:**
