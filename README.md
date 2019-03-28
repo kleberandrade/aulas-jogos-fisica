@@ -65,7 +65,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 - **Scripts:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_penalti.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_penalti.gif" height="500"/>
 </p>
 
 ### Projeto 8 - Flechas
@@ -86,11 +86,23 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
 </p>
 
+### Projeto 10 - Pokebola
+
+- **Conceitos:**
+- **Scripts:**
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
+</p>
 
 
 ## Artigos para leitura
 
 
+
+## Vídeos Interessantes
+
+- [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
 
 
 Licença
