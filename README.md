@@ -17,7 +17,6 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" height="500"/>
 </p>
 
-
 ### Projeto 2 - Arkanoid
 
 - **Conceitos:**
@@ -52,7 +51,15 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" height="500"/>
 </p>
 
-### Projeto 6 - Pênalti
+### Projeto 6 - Mini Golf (Magnus Effect)
+
+- **Conceitos:** [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_penalti.gif" height="500"/>
+</p>
+
+### Projeto 7 - Pênalti
 
 - **Conceitos:**
 - **Scripts:**
@@ -61,7 +68,16 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_penalti.gif" height="500"/>
 </p>
 
-### Projeto 7 - Flechas
+### Projeto 8 - Flechas
+
+- **Conceitos:**
+- **Scripts:**
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
+</p>
+
+### Projeto 9 - Pokebola
 
 - **Conceitos:**
 - **Scripts:**
