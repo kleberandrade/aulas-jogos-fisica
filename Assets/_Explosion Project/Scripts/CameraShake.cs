@@ -8,7 +8,7 @@ public class CameraShake : MonoBehaviour
     [SerializeField]
     private AnimationCurve m_MagnitudeCurve;
 
-    private void Awake()
+    public void Awake()
     {
         if (Instance != null)
         {

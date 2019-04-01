@@ -11,7 +11,7 @@ public class EnableBridge : MonoBehaviour
     [SerializeField]
     private float[] m_Targets;
 
-    private int m_CurrentTarget = 0;
+    private int m_CurrentTarget;
 
     public void Update()
     {

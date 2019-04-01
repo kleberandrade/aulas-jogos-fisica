@@ -30,11 +30,11 @@ public class MagnusEffectBall : MonoBehaviour
     [SerializeField]
     private bool m_IsHit;
 
-    private float m_Distance;
+    public float Distance { get; private set; }
 
-    private float m_Magnitude;
+    public float Magnitude { get; private set; }
 
-    private float m_Height;
+    public float Height { get; private set; }
 
     private long m_HitFrame;
 
@@ -63,7 +63,7 @@ public class MagnusEffectBall : MonoBehaviour
                 m_Rigidbody.AddForce(m_MagnusConstant * magnusForce);
             }
 
-            if (Time.frameCount > m_HitFrame + 10 && m_Magnitude < 0.25f)
+            if (Time.frameCount > m_HitFrame + 10 && Magnitude < 0.25f)
             {
                 ResetBall(false);
             }
@@ -78,9 +78,9 @@ public class MagnusEffectBall : MonoBehaviour
 
     public void UpdateStats()
     {
-        m_Distance = Vector3.Distance(transform.position, m_StartPosition);
-        m_Magnitude = m_Rigidbody.velocity.magnitude;
-        m_Height = Mathf.Max(transform.position.y, m_Height);
+        Distance = Vector3.Distance(transform.position, m_StartPosition);
+        Magnitude = m_Rigidbody.velocity.magnitude;
+        Height = Mathf.Max(transform.position.y, Height);
     }
 
     public void ResetBall(bool hit)
@@ -92,7 +92,7 @@ public class MagnusEffectBall : MonoBehaviour
         transform.rotation = Quaternion.identity;
 
         m_StartPosition = transform.position;
-        m_Distance = m_Magnitude = m_Height = 0.0f;
+        Distance = Magnitude = Height = 0.0f;
     }
 
     public void SetLaunchAngle(float launchAngle)
