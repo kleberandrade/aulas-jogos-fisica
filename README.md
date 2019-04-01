@@ -15,7 +15,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" height="400"/>
 </p>
 
 ### Projeto 2 - Arkanoid
@@ -23,7 +23,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_arkanoid.PNG" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_arkanoid.PNG" height="400"/>
 </p>
 
 ### Projeto 3 - Basket
@@ -31,21 +31,21 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" height="400"/>
 </p>
 
 ### Projeto 4 - Joints
 
   + **Conceitos:**
 
-<img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" height="500"/>
+<img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" height="400"/>
 
 ### Projeto 5 - Explosão
 
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" height="400"/>
 </p>
 
 ### Projeto 6 - Mini Golf (Magnus Effect)
@@ -53,7 +53,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:** [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_penalti.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_golf.gif" height="400"/>
 </p>
 
 ### Projeto 7 - Pênalti
@@ -61,7 +61,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_penalti.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_penalti.gif" height="400"/>
 </p>
 
 ### Projeto 8 - Lanças/Flechas
@@ -69,7 +69,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="400"/>
 </p>
 
 ### Projeto 9 - Pokebola
@@ -77,7 +77,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="400"/>
 </p>
 
 ### Projeto 10 - Veículos Terrestres
@@ -85,7 +85,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   + **Conceitos:**
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="400"/>
 </p>
 
 ## Vídeos Interessantes

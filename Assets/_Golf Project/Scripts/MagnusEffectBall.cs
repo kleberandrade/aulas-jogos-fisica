@@ -26,9 +26,7 @@ public class MagnusEffectBall : MonoBehaviour
     [SerializeField]
     private float m_MagnusConstant = 1.0f;
 
-    [Header("Stats")]
-    [SerializeField]
-    private bool m_IsHit;
+    public bool IsHit { get; private set; }
 
     public float Distance { get; private set; }
 
@@ -55,7 +53,7 @@ public class MagnusEffectBall : MonoBehaviour
 
     public void FixedUpdate()
     {
-        if (m_IsHit)
+        if (IsHit)
         {
             if (m_UseMagnus)
             {
@@ -85,7 +83,7 @@ public class MagnusEffectBall : MonoBehaviour
 
     public void ResetBall(bool hit)
     {
-        m_IsHit = hit;
+        IsHit = hit;
 
         m_Rigidbody.velocity = Vector3.zero;
         m_Rigidbody.angularVelocity = Vector3.zero;
@@ -98,7 +96,6 @@ public class MagnusEffectBall : MonoBehaviour
     public void SetLaunchAngle(float launchAngle)
     {
         m_LaunchAngle = launchAngle;
-
         Vector3 rotation = transform.eulerAngles;
         rotation.x = -launchAngle;
         transform.eulerAngles = rotation;
@@ -106,12 +103,10 @@ public class MagnusEffectBall : MonoBehaviour
 
     public void Shot()
     {
-        if (!m_IsHit)
+        if (!IsHit)
         {
             m_HitFrame = Time.frameCount;
-
             ResetBall(true);
-
             m_Rigidbody.AddRelativeForce(Vector3.forward * m_Force, ForceMode.Impulse);
             m_Rigidbody.angularVelocity = new Vector3(m_BackSpin, m_SideSpin, 0);
         }

@@ -20,13 +20,11 @@ public class Explosion : MonoBehaviour
         foreach (Collider collider in colliders)
         {
             Rigidbody body = collider.GetComponent<Rigidbody>();
-            if (body == null)
+            if (body)
             {
-                continue;
+                body.isKinematic = false;
+                body.AddExplosionForce(m_Force, transform.position, m_Radius, m_UpForce);
             }
-
-            body.isKinematic = false;
-            body.AddExplosionForce(m_Force, transform.position, m_Radius, m_UpForce);
         }
     }
 

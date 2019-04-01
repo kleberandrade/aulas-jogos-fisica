@@ -9,7 +9,7 @@ public class Cannon : MonoBehaviour
     private Transform m_Barrel;
 
     [SerializeField]
-    private float m_Speed;
+    private float m_Speed = 10.0f;
     
     public void Update()
     {
