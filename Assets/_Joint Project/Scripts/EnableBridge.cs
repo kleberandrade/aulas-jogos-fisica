@@ -1,18 +1,19 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnableBridge : MonoBehaviour
 {
-    public HingeJoint[] m_Joints;
+    [SerializeField]
+    private HingeJoint[] m_Joints;
 
-    public KeyCode m_ActiveKey;
+    [SerializeField]
+    private KeyCode m_ActiveKey;
 
-    public float[] m_Targets;
+    [SerializeField]
+    private float[] m_Targets;
 
     private int m_CurrentTarget = 0;
 
-    private void Update()
+    public void Update()
     {
         if (Input.GetKeyDown(m_ActiveKey))
         {

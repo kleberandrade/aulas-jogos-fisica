@@ -2,10 +2,13 @@
 
 public class ChangeColor : MonoBehaviour
 {
-    public Color m_MinColor;
-    public Color m_MaxColor;
+    [SerializeField]
+    private Color m_MinColor;
 
-    private void Start()
+    [SerializeField]
+    private Color m_MaxColor;
+
+    public void Start()
     {
         Renderer renderer = GetComponent<Renderer>();
 

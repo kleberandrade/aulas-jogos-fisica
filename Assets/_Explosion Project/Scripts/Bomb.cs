@@ -2,16 +2,17 @@
 
 public class Bomb : MonoBehaviour
 {
-    public KeyCode m_KeyToDetonate = KeyCode.Space;
+    [SerializeField]
+    private KeyCode m_KeyToDetonate = KeyCode.Space;
 
     private Explosion m_Explosion;
 
-    private void Awake()
+    public void Awake()
     {
         m_Explosion = GetComponent<Explosion>();
     }
 
-    private void Update()
+    public void Update()
     {
         if (Input.GetKeyDown(m_KeyToDetonate))
         {

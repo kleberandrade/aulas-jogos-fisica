@@ -2,11 +2,13 @@
 
 public class EnableObjects : MonoBehaviour
 {
-    public KeyCode m_KeyToEnableObjects = KeyCode.KeypadEnter;
+    [SerializeField]
+    private KeyCode m_KeyToEnableObjects = KeyCode.KeypadEnter;
 
-    public GameObject[] m_Objects;
+    [SerializeField]
+    private GameObject[] m_Objects;
 
-    private void Update()
+    public void Update()
     {
         if (Input.GetKeyDown(m_KeyToEnableObjects))
         {

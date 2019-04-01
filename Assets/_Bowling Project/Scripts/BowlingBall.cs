@@ -1,19 +1,18 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class BowlingBall : MonoBehaviour
 {
-    public float m_Force;
+    [SerializeField]
+    private float m_Force;
 
     private Rigidbody m_Rigidbody;
 
-    private void Awake()
+    public void Awake()
     {
         m_Rigidbody = GetComponent<Rigidbody>();
     }
 
-    private void OnMouseDown()
+    public void OnMouseDown()
     {
         Vector3 position = Camera.main.WorldToScreenPoint(transform.position);
         Vector3 direction = (position - Input.mousePosition).normalized;

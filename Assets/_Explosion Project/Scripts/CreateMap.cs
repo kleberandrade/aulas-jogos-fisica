@@ -3,17 +3,24 @@ using UnityEngine;
 
 public class CreateMap : MonoBehaviour
 {
-    public GameObject[] m_MapObjectPrefab;
-    public int m_MaxDepth;
-    public int m_MaxLength;
-    public float m_MaxHeight;
+    [SerializeField]
+    private GameObject[] m_MapObjectPrefab;
 
-    private void Start()
+    [SerializeField]
+    private int m_MaxDepth;
+
+    [SerializeField]
+    private int m_MaxLength;
+
+    [SerializeField]
+    private float m_MaxHeight;
+
+    public void Start()
     {
         StartCoroutine(Create());
     }
 
-    private IEnumerator Create()
+    public IEnumerator Create()
     {
         for (int x = 0; x < m_MaxLength; x++)
         {

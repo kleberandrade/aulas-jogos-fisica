@@ -2,16 +2,17 @@
 
 public class CameraRotationWithMouse : MonoBehaviour
 {
-    public float m_RotationSpeed = 5.0f;
+    [SerializeField]
+    private float m_RotationSpeed = 5.0f;
 
     private Camera m_Camera;
 
-    private void Awake()
+    public void Awake()
     {
         m_Camera = GetComponentInChildren<Camera>();
     }
 
-    private void Update()
+    public void Update()
     {
         float mouseX = Input.GetAxis("Mouse X") * m_RotationSpeed;
         float mouseY = Input.GetAxis("Mouse Y") * m_RotationSpeed;

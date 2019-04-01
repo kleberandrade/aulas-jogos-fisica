@@ -7,35 +7,53 @@ public class MagnusEffectBall : MonoBehaviour
 
     [Header("Shot")]
     [Range(0.0f, 360.0f)]
-    public float m_LaunchAngle;
-    public float m_Force;
+    [SerializeField]
+    private float m_LaunchAngle;
 
-    public float m_BackSpin;
-    public float m_SideSpin;
+    [SerializeField]
+    private float m_Force;
+
+    [SerializeField]
+    private float m_BackSpin;
+
+    [SerializeField]
+    private float m_SideSpin;
 
     [Header("Magnus Effect")]
-    public bool m_UseMagnus;
-    public float m_MagnusConstant = 1.0f;
+    [SerializeField]
+    private bool m_UseMagnus;
+
+    [SerializeField]
+    private float m_MagnusConstant = 1.0f;
 
     [Header("Stats")]
-    public bool m_IsHit;
-    public float m_Distance, m_Magnitude, m_Height;
+    [SerializeField]
+    private bool m_IsHit;
+
+    private float m_Distance;
+
+    private float m_Magnitude;
+
+    private float m_Height;
 
     private long m_HitFrame;
+
     private Vector3 m_StartPosition;
 
-    private void Awake()
+    public void Awake()
     {
         m_Rigidbody = GetComponent<Rigidbody>();
     }
 
-    private void Update()
+    public void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
+        {
             Shot();
+        }
     }
 
-    private void FixedUpdate()
+    public void FixedUpdate()
     {
         if (m_IsHit)
         {
@@ -46,7 +64,9 @@ public class MagnusEffectBall : MonoBehaviour
             }
 
             if (Time.frameCount > m_HitFrame + 10 && m_Magnitude < 0.25f)
+            {
                 ResetBall(false);
+            }
 
             UpdateStats();
         }
@@ -86,13 +106,14 @@ public class MagnusEffectBall : MonoBehaviour
 
     private void Shot()
     {
-        if (m_IsHit) return;
+        if (!m_IsHit)
+        {
+            m_HitFrame = Time.frameCount;
 
-        m_HitFrame = Time.frameCount;
+            ResetBall(true);
 
-        ResetBall(true);
-
-        m_Rigidbody.AddRelativeForce(Vector3.forward * m_Force, ForceMode.Impulse);
-        m_Rigidbody.angularVelocity = new Vector3(m_BackSpin, m_SideSpin, 0);
+            m_Rigidbody.AddRelativeForce(Vector3.forward * m_Force, ForceMode.Impulse);
+            m_Rigidbody.angularVelocity = new Vector3(m_BackSpin, m_SideSpin, 0);
+        }
     }
 }
