@@ -3,14 +3,18 @@ using UnityEngine;
 
 public class CameraShake : MonoBehaviour
 {
-    public static CameraShake Instance = null;
+    public static CameraShake Instance { get; private set; }
 
     [SerializeField]
     private AnimationCurve m_MagnitudeCurve;
 
-    public void Awake()
+    private void Awake()
     {
-        if (Instance == null)
+        if (Instance != null)
+        {
+            Destroy(gameObject);
+        }
+        else
         {
             Instance = this;
         }

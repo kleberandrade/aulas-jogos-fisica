@@ -4,13 +4,13 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ## Ferramentas
 
-* [Unity](https://unity3d.com/)
++ [Unity](https://unity3d.com/)
 
 ## Projetos
 
 ### Projeto 1 - Boliche
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" height="500"/>
@@ -18,7 +18,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 2 - Arkanoid
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_arkanoid.PNG" height="500"/>
@@ -26,7 +26,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 3 - Basket
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" height="500"/>
@@ -34,13 +34,13 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 4 - Joints
 
-* **Conceitos:**
++ **Conceitos:**
 
 <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" height="500"/>
 
 ### Projeto 5 - Explosão
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" height="500"/>
@@ -48,7 +48,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 6 - Mini Golf (Magnus Effect)
 
-* **Conceitos:** [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
++ **Conceitos:** [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_penalti.gif" height="500"/>
@@ -56,7 +56,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 7 - Pênalti
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_penalti.gif" height="500"/>
@@ -64,7 +64,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 8 - Lanças/Flechas
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
@@ -72,7 +72,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 9 - Pokebola
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
@@ -80,7 +80,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 10 - Veículos Terrestres
 
-* **Conceitos:**
++ **Conceitos:**
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="500"/>
@@ -88,7 +88,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ## Vídeos Interessantes
 
-* [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
++ [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
 
 ## Licença
 

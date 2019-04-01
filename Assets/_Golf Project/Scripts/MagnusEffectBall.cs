@@ -76,14 +76,14 @@ public class MagnusEffectBall : MonoBehaviour
         }
     }
 
-    private void UpdateStats()
+    public void UpdateStats()
     {
         m_Distance = Vector3.Distance(transform.position, m_StartPosition);
         m_Magnitude = m_Rigidbody.velocity.magnitude;
         m_Height = Mathf.Max(transform.position.y, m_Height);
     }
 
-    private void ResetBall(bool hit)
+    public void ResetBall(bool hit)
     {
         m_IsHit = hit;
 
@@ -104,7 +104,7 @@ public class MagnusEffectBall : MonoBehaviour
         transform.eulerAngles = rotation;
     }
 
-    private void Shot()
+    public void Shot()
     {
         if (!m_IsHit)
         {
