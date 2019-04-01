@@ -12,7 +12,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 1 - Boliche
 
-  + **Conceitos:**
+  + **Conceitos:** [Rigidbody](https://docs.unity3d.com/Manual/class-Rigidbody.html)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" height="400"/>
@@ -20,7 +20,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 2 - Arkanoid
 
-  + **Conceitos:**
+  + **Conceitos:** [Physics Material](https://docs.unity3d.com/Manual/class-PhysicMaterial.html)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_arkanoid.PNG" height="400"/>
@@ -28,7 +28,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 3 - Basket
 
-  + **Conceitos:**
+  + **Conceitos:** [Cloth](https://docs.unity3d.com/Manual/class-Cloth.html) e [Quaternion.Euler](https://docs.unity3d.com/ScriptReference/Quaternion.Euler.html)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" height="400"/>
@@ -36,13 +36,13 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 4 - Joints
 
-  + **Conceitos:**
+  + **Conceitos:** [Hing Joint 3D](https://docs.unity3d.com/Manual/class-HingeJoint.html)
 
 <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" height="400"/>
 
 ### Projeto 5 - Explosão
 
-  + **Conceitos:**
+  + **Conceitos:** [Rigidbody.AddExplosionForce](https://docs.unity3d.com/ScriptReference/Rigidbody.AddExplosionForce.html)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" height="400"/>
@@ -58,7 +58,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 7 - Pênalti
 
-  + **Conceitos:**
+  + **Conceitos:** [Spring Joint](https://docs.unity3d.com/Manual/class-SpringJoint.html)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_penalti.gif" height="400"/>
@@ -66,26 +66,10 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 8 - Lanças/Flechas
 
-  + **Conceitos:**
+  + **Conceitos:** [Quaternion.LookRotation](https://docs.unity3d.com/ScriptReference/Quaternion.LookRotation.html)
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="400"/>
-</p>
-
-### Projeto 9 - Pokebola
-
-  + **Conceitos:**
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="400"/>
-</p>
-
-### Projeto 10 - Veículos Terrestres
-
-  + **Conceitos:**
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-ihc/blob/master/Screenshots/aula_flecha.gif" height="400"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_flecha.gif" height="400"/>
 </p>
 
 ## Vídeos Interessantes
