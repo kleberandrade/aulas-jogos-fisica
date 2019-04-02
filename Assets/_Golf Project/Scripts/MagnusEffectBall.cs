@@ -90,7 +90,10 @@ public class MagnusEffectBall : MonoBehaviour
         transform.rotation = Quaternion.identity;
 
         m_StartPosition = transform.position;
-        Distance = Magnitude = Height = 0.0f;
+
+        Distance = 0.0f;
+        Magnitude = 0.0f;
+        Height = 0.0f;
     }
 
     public void SetLaunchAngle(float launchAngle)
