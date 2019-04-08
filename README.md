@@ -70,6 +70,28 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_laser.gif" height="400"/>
 </p>
 
+### Projeto 10 - Predição de trajetórias
+
+### Projeto 11 - Magnetismo
+
+### Projeto 12 - Balão (utilização de força do vento)
+
+### Projeto 13 - Míssil perseguidor
+
+### Projeto 14 - Pinball
+
+### Projeto 15 - Movimento de Personagem (estilo Diablo)
+
+### Projeto 16 - Movimento de Personagem (Pulo duplo)
+
+### Projeto 17 - Movimento de Personagem (Dash)
+
+### Projeto 18 - Portal (Texture Render)
+
+### Projeto 19 - Slice Mesh (Fruit Ninja)
+
+### Projeto 20 - Carros (estilo Mario Kart)
+
 ## Vídeos Interessantes
 *   [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
 
