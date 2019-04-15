@@ -71,36 +71,44 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 </p>
 
 ### Projeto 10 - Movimento de Personagem (Pulo, Pulo duplo e Dash)
+*   **Conceitos:** MovePosition, RotatePosition, ForceMode
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_player.gif" height="400"/>
+</p>
+
+### Projeto 11 - Portal (Texture Render)
+*   **Conceitos:** TextureRenderer
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_portal.gif" height="400"/>
+</p>
+
+### Projeto 12 - Balão (utilização de força do vento)
+*   **Conceitos:** 
+
+### Projeto 13 - Magnetismo e Míssil perseguidor
 *   **Conceitos:**
 
-### Projeto 11 - Predição de trajetórias
+### Projeto 14 - Predição de trajetórias
+*   **Conceitos:** 
+
+### Projeto 15 - Pinball
 *   **Conceitos:**
 
-### Projeto 12 - Magnetismo e Míssil perseguidor
+### Projeto 16 - Pêndulo de demolição
 *   **Conceitos:**
 
-### Projeto 13 - Balão (utilização de força do vento)
+### Projeto 17 - Slice Mesh (Fruit Ninja)
 *   **Conceitos:**
 
-### Projeto 14 - Pinball
+### Projeto 18 - Carros (estilo Mario Kart)
 *   **Conceitos:**
 
-### Projeto 15 - Portal (Texture Render)
+### Projeto 19 - Aviões
 *   **Conceitos:**
 
-### Projeto 16 - Slice Mesh (Fruit Ninja)
-*   **Conceitos:**
-
-### Projeto 17 - Carros (estilo Mario Kart)
-*   **Conceitos:**
-
-### Projeto 18 - Aviões
-*   **Conceitos:**
-
-### Projeto 19 - Barcos
-*   **Conceitos:**
-
-### Projeto 20 - Aviões
+### Projeto 20 - Barcos
 *   **Conceitos:**
 
 ## Vídeos Interessantes

@@ -17,7 +17,7 @@ public class Wave : MonoBehaviour
 
     public void Update()
     {
-        float y = m_Magnitude * Mathf.Sin(Time.time * m_SmoothTime) * Time.deltaTime;
+        float y = m_Magnitude * Mathf.Sin(Time.time * m_SmoothTime);
         transform.localPosition = m_OriginalPosition + Vector3.up * y;
     }
 }
