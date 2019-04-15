@@ -33,7 +33,9 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ### Projeto 4 - Joints
 *   **Conceitos:** [Hing Joint 3D](https://docs.unity3d.com/Manual/class-HingeJoint.html)
 
-<img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" width="800"/>
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" width="800"/>
+</p>
 
 ### Projeto 5 - Explosão
 *   **Conceitos:** [Rigidbody.AddExplosionForce](https://docs.unity3d.com/ScriptReference/Rigidbody.AddExplosionForce.html)
