@@ -93,28 +93,32 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_carro.gif" width="800"/>
 </p>
 
-### Projeto 13 - Balão, Corda, Vento e Plataformas
-*   **Conceitos:** 
+### Projeto 13 - Split Screen e Multiplayer Local
+*   **Conceitos:** [Cinemachine](https://blogs.unity3d.com/pt/2018/07/17/cinemachine-for-2d-tips-and-tricks/) e [Split screen using Cinemachine](https://www.youtube.com/watch?v=X6Ou8InMUbg)
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_split_screen.gif" width="800"/>
+</p>
 
 ### Projeto 14 - Magnetismo (Repulsão e Atração) e Míssil perseguidor
-*   **Conceitos:**
-
-### Projeto 15 - Predição de trajetórias
 *   **Conceitos:** 
+
+### Projeto 15 - Balão, Corda, Vento e Plataformas
+*   **Conceitos:**
 
 ### Projeto 16 - Pinball
 *   **Conceitos:**
 
-### Projeto 17 - Slice Mesh (Fruit Ninja)
+### Projeto 17 - Predição de trajetórias
+*   **Conceitos:** 
+
+### Projeto 18 - Slice Mesh (Fruit Ninja)
 *   **Conceitos:**
 
-### Projeto 18 - Aviões
+### Projeto 19 - Aviões
 *   **Conceitos:**
 
-### Projeto 19 - Barcos
-*   **Conceitos:**
-
-### Projeto 20 - Split Screen e Multiplayer Local
+### Projeto 20 - Barcos
 *   **Conceitos:**
 
 ## Avaliações
