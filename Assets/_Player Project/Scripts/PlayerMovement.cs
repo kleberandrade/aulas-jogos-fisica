@@ -3,6 +3,7 @@
 [RequireComponent(typeof(Rigidbody))]
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Abilities")]
     [SerializeField]
     private float m_MovementSpeed = 5f;
 
@@ -10,27 +11,32 @@ public class PlayerMovement : MonoBehaviour
     private float m_JumpForce = 2f;
 
     [SerializeField]
-    private float m_GroundDistance = 0.2f;
-
-    [SerializeField]
     private float m_DashSpeed = 5f;
-
-    [SerializeField]
-    public LayerMask m_GroundMask;
-
-    [SerializeField]
-    public Transform m_GroundChecker;
-
-    [SerializeField]
-    private bool m_UseGravityScale = true;
 
     [SerializeField]
     private bool m_UseDoubleJump;
 
     private bool m_CanDoubleJump;
 
+    [Header("Gravity")]
+    [SerializeField]
+    private bool m_UseGravityScale = true;
+
     [SerializeField]
     public float m_GravityScale = 1.0f;
+
+    [Header("Ground Checker")]
+    [SerializeField]
+    public Transform m_GroundChecker;
+
+    [SerializeField]
+    private float m_GroundDistance = 0.2f;
+
+    [SerializeField]
+    public LayerMask m_GroundMask;
+
+    [SerializeField]
+    private ParticleSystem m_GroundParticle;
 
     public float Horizontal { get; set; }
     public float Vertical { get; set; }
@@ -96,10 +102,26 @@ public class PlayerMovement : MonoBehaviour
 
         m_Body.MovePosition(m_Body.position + m_Movement.normalized * m_MovementSpeed * Time.fixedDeltaTime);
 
-        if (m_Movement.magnitude != 0.0f)
+        if (m_Movement.magnitude > 0.0f)
         {
             Quaternion angle = Quaternion.LookRotation(m_Movement);
             m_Body.MoveRotation(angle);
+        }
+
+        UpdateGroundParticle();
+    }
+
+    private void UpdateGroundParticle()
+    {
+        if (m_GroundParticle)
+        {
+            if (m_GroundParticle.isStopped)
+            {
+                m_GroundParticle.Play();
+            }
+
+            var emission = m_GroundParticle.emission;
+            emission.enabled = m_IsGrounded && m_Movement.magnitude != 0;
         }
     }
 }

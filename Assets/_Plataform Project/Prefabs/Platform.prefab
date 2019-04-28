@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6411665464762866918}
   - component: {fileID: 6411665464762866921}
   - component: {fileID: 771613976470156147}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 6411665464762866923}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5, y: 2.9, z: 0}
-  m_LocalScale: {x: 4, y: 0.2, z: 6}
+  m_LocalScale: {x: 4, y: 0.19999999, z: 6}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -108,9 +108,9 @@ MonoBehaviour:
   m_Points:
   - {fileID: 0}
   - {fileID: 0}
-  m_Speed: 12
+  m_Speed: 10
   m_Radius: 0.01
-  m_TimeToNextPoint: 3
+  m_TimeToNextPoint: 1
 --- !u!65 &771613976470156147
 BoxCollider:
   m_ObjectHideFlags: 0
