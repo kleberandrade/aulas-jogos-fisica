@@ -100,25 +100,32 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_split_screen.gif" width="800"/>
 </p>
 
-### Projeto 14 - Magnetismo (Repulsão e Atração) e Míssil perseguidor
+### Projeto 14 - Plataforma móvel
+*   **Conceitos:** [MoveTowards](https://docs.unity3d.com/ScriptReference/Vector3.MoveTowards.html)
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_plataforma.gif" width="800"/>
+</p>
+
+### Projeto 15 - Magnetismo (Repulsão e Atração) e Míssil perseguidor
 *   **Conceitos:** 
 
-### Projeto 15 - Balão, Corda, Vento e Plataformas
+### Projeto 16 - Balão, Corda, Vento e Plataformas
 *   **Conceitos:**
 
-### Projeto 16 - Pinball
+### Projeto 17 - Pinball
 *   **Conceitos:**
 
-### Projeto 17 - Predição de trajetórias
+### Projeto 18 - Predição de trajetórias
 *   **Conceitos:** 
 
-### Projeto 18 - Slice Mesh (Fruit Ninja)
+### Projeto 19 - Slice Mesh (Fruit Ninja)
 *   **Conceitos:**
 
-### Projeto 19 - Aviões
+### Projeto 20 - Aviões
 *   **Conceitos:**
 
-### Projeto 20 - Barcos
+### Projeto 21 - Barcos
 *   **Conceitos:**
 
 ## Avaliações
