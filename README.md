@@ -86,7 +86,7 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_portal.gif" width="800"/>
 </p>
 
-### Projeto 12 - Carros (estilo Mario Kart)
+### Projeto 12 - Carros (like Mario Kart)
 *   **Conceitos:** [Wheel Collider](https://docs.unity3d.com/Manual/class-WheelCollider.html) e [WheelCollider Tutorial](https://docs.unity3d.com/Manual/WheelColliderTutorial.html)
 
 <p align="center">
@@ -107,14 +107,18 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_plataforma.gif" width="800"/>
 </p>
 
-### Projeto 15 - Magnetismo (Repulsão e Atração) e Míssil perseguidor
-*   **Conceitos:** 
+### Projeto 15 - Magnetismo (Repulsão e Atração)
+*   **Conceitos:** [Physics.OverlapSphere](https://docs.unity3d.com/ScriptReference/Physics.OverlapSphere.html) e [Vector3.sqrMagnitude](https://docs.unity3d.com/ScriptReference/Vector3-sqrMagnitude.html)
 
-### Projeto 16 - Balão, Corda, Vento e Plataformas
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_magnetismo.gif" width="800"/>
+</p>
+
+### Projeto 16 - Pinball
 *   **Conceitos:**
 
-### Projeto 17 - Pinball
-*   **Conceitos:**
+### Projeto 17 - Vento e Corda
+*   **Conceitos:** [Random.insideUnitSphere](http://www.vfkjsd.cn/unity3d/ScriptReference/Random-insideUnitSphere.html)
 
 ### Projeto 18 - Predição de trajetórias
 *   **Conceitos:** 
@@ -128,11 +132,18 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ### Projeto 21 - Barcos
 *   **Conceitos:**
 
+### Projeto 22 - Barril atirador (like Donkey Kong)
+*   **Conceitos:**
+
 ## Avaliações
 
-*   **Prova 1**: Criar um campo de futebol com um joão bobo no gol e realizar um chute de pênalti com curva no ângulo;
-*   **Prova 2**: Criar um jogo para 2 jogadores local (split screen), carro com bexigas (representando as vidas), tiro de flechas, torres de laser (reflexão), itens sendo pegos com magnetismo e um pendulo com bola de obstaculo no meio da arena;
-*   **Projeto**: Aplicar física no projeto interdisciplinar
+Média = P1 * 0.4 + P2 * 0.5 + PI * 0.1
+
+*   **P1**: Prova 1 - Criar um campo de futebol com um joão bobo no gol e realizar um chute de pênalti com curva no ângulo;
+*   **P2**: Prova 2 - Criar um jogo para 2 jogadores local (split screen), carro com bexigas (representando as vidas), tiro de flechas, torres de laser (reflexão), itens sendo pegos com magnetismo e um pendulo com bola de obstaculo no meio da arena;
+*   **PI**: Projeto Integrado - Aplicar física no projeto interdisciplinar.
+
+
 
 ## Vídeos Interessantes
 *   [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
