@@ -422,7 +422,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 187136314}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -30, y: 6.4117618, z: -40}
+  m_LocalPosition: {x: -30, y: 6.411762, z: -40}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1764808309}
@@ -1264,13 +1264,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 890301657}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalRotation: {x: 0.4590981, y: -0.2692363, z: 0.11383974, w: 0.8389168}
   m_LocalPosition: {x: -20.14, y: 36.81, z: 34.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 56.262, y: -38.694, z: -5.808}
 --- !u!4 &917355174 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1225531333089148811, guid: 5c4d4c094a7c99940a17b8432fc30952,
@@ -1699,7 +1699,7 @@ Camera:
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
   m_GateFitMode: 2
-  m_FocalLength: 50
+  m_FocalLength: 32.96973
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -2257,6 +2257,27 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1964951156}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1684849502 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8811381590711300826, guid: 1eb29223243914040951371cb427563c,
+    type: 3}
+  m_PrefabInstance: {fileID: 8811381591314702809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1684849503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1684849502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4620bd739b2f804fb0291aacbd4e314, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_WaveFrequency: 0.75
+  m_WaveHeight: 0.5
+  m_WaveLength: 1
 --- !u!4 &1713480175 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1225531333089148811, guid: 5c4d4c094a7c99940a17b8432fc30952,
@@ -7021,20 +7042,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_LookaheadTime: 0
-  m_LookaheadSmoothing: 5
+  m_LookaheadSmoothing: 10
   m_LookaheadIgnoreY: 0
-  m_XDamping: 0.1
-  m_YDamping: 0.2
-  m_ZDamping: 0.3
+  m_XDamping: 3.1
+  m_YDamping: 3.1
+  m_ZDamping: 1.1
   m_ScreenX: 0.5
   m_ScreenY: 0.6
   m_CameraDistance: 40
-  m_DeadZoneWidth: 0.2
-  m_DeadZoneHeight: 0.2
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
-  m_SoftZoneWidth: 0.6
-  m_SoftZoneHeight: 0.5
+  m_SoftZoneWidth: 0.1
+  m_SoftZoneHeight: 0.6
   m_BiasX: 0
   m_BiasY: 0
   m_CenterOnActivate: 1
@@ -7828,6 +7849,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SmoothTime
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8811381590711300817, guid: 1eb29223243914040951371cb427563c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1eb29223243914040951371cb427563c, type: 3}
