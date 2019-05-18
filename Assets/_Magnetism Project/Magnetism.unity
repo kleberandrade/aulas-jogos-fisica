@@ -537,8 +537,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ObjectPrefab: {fileID: 2212597719196277896, guid: 05c329a9b41e997489e098c814aadc34,
     type: 3}
-  m_ObjectsNumber: 500
+  m_ObjectsNumber: 1000
   m_Range: 20
+  m_MinObjectScale: 0.25
+  m_MaxObjectScale: 1
 --- !u!4 &760486073
 Transform:
   m_ObjectHideFlags: 0
@@ -589,7 +591,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.9450981, g: 0.36078432, b: 0.14117648, a: 1}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
