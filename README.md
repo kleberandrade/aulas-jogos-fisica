@@ -10,139 +10,14 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ## Projetos
 
 ### Projeto 1 - Boliche
-*   **Conceitos:** [Rigidbody](https://docs.unity3d.com/Manual/class-Rigidbody.html)
+*   Tutorial: [criando a mecânica do jogo de boliche](https://medium.com/@kleberandrade/criando-um-jogo-de-boliche-3f42964b185b?source=friends_link&sk=59955d80e98fecef135b323dfdfcffa3)
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_bowling.PNG" width="800"/>
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/bowling.gif" width="800"/>
 </p>
 
 ### Projeto 2 - Arkanoid
-*   **Conceitos:** [Physics Material](https://docs.unity3d.com/Manual/class-PhysicMaterial.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_arkanoid.PNG" width="800"/>
-</p>
-
-### Projeto 3 - Basket
-*   **Conceitos:** [Cloth](https://docs.unity3d.com/Manual/class-Cloth.html) e [Quaternion.Euler](https://docs.unity3d.com/ScriptReference/Quaternion.Euler.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_basket.PNG" width="800"/>
-</p>
-
-### Projeto 4 - Joints
-*   **Conceitos:** [Hing Joint 3D](https://docs.unity3d.com/Manual/class-HingeJoint.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_joints.gif" width="800"/>
-</p>
-
-### Projeto 5 - Explosão
-*   **Conceitos:** [Rigidbody.AddExplosionForce](https://docs.unity3d.com/ScriptReference/Rigidbody.AddExplosionForce.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_explosao.gif" width="800"/>
-</p>
-
-### Projeto 6 - Mini Golf (Magnus Effect)
-*   **Conceitos:** [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_golf.gif" width="800"/>
-</p>
-
-### Projeto 7 - Pênalti
-*   **Conceitos:** [Spring Joint](https://docs.unity3d.com/Manual/class-SpringJoint.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_penalti.gif" width="800"/>
-</p>
-
-### Projeto 8 - Lanças/Flechas
-*   **Conceitos:** [Quaternion.LookRotation](https://docs.unity3d.com/ScriptReference/Quaternion.LookRotation.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_flecha.gif" width="800"/>
-</p>
-
-### Projeto 9 - Laser com Reflexão
-*   **Conceitos:** [Vector3.Reflect](https://docs.unity3d.com/ScriptReference/Vector3.Reflect.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_laser.gif" width="800"/>
-</p>
-
-### Projeto 10 - Movimento de Personagem (Pulo, Pulo duplo e Dash)
-*   **Conceitos:** [MovePosition](https://docs.unity3d.com/ScriptReference/Rigidbody.MovePosition.html), [MoveRotation](https://docs.unity3d.com/ScriptReference/Rigidbody.MoveRotation.html), [ForceMode](https://docs.unity3d.com/ScriptReference/ForceMode.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_player.gif" width="800"/>
-</p>
-
-### Projeto 11 - Portal (Render Texture)
-*   **Conceitos:** [Render Texture](https://docs.unity3d.com/Manual/class-RenderTexture.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_portal.gif" width="800"/>
-</p>
-
-### Projeto 12 - Carros (like Mario Kart)
-*   **Conceitos:** [Wheel Collider](https://docs.unity3d.com/Manual/class-WheelCollider.html) e [WheelCollider Tutorial](https://docs.unity3d.com/Manual/WheelColliderTutorial.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_carro.gif" width="800"/>
-</p>
-
-### Projeto 13 - Split Screen e Multiplayer Local
-*   **Conceitos:** [Cinemachine](https://blogs.unity3d.com/pt/2018/07/17/cinemachine-for-2d-tips-and-tricks/) e [Split screen using Cinemachine](https://www.youtube.com/watch?v=X6Ou8InMUbg)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_split_screen.gif" width="800"/>
-</p>
-
-### Projeto 14 - Plataforma móvel
-*   **Conceitos:** [MoveTowards](https://docs.unity3d.com/ScriptReference/Vector3.MoveTowards.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_plataforma.gif" width="800"/>
-</p>
-
-### Projeto 15 - Magnetismo (Repulsão e Atração)
-*   **Conceitos:** [Physics.OverlapSphere](https://docs.unity3d.com/ScriptReference/Physics.OverlapSphere.html) e [Vector3.sqrMagnitude](https://docs.unity3d.com/ScriptReference/Vector3-sqrMagnitude.html)
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/aula_magnetismo.gif" width="800"/>
-</p>
-
-### Projeto 16 - Pinball
-*   **Conceitos:**
-
-### Projeto 17 - Vento e Corda
-*   **Conceitos:** [Random.insideUnitSphere](http://www.vfkjsd.cn/unity3d/ScriptReference/Random-insideUnitSphere.html)
-
-### Projeto 18 - Predição de trajetórias
-*   **Conceitos:** 
-
-### Projeto 19 - Slice Mesh (Fruit Ninja)
-*   **Conceitos:**
-
-### Projeto 20 - Aviões
-*   **Conceitos:**
-
-### Projeto 21 - Barcos
-*   **Conceitos:**
-
-### Projeto 22 - Barril atirador (like Donkey Kong)
-*   **Conceitos:**
-
-## Avaliações
-
-Média = P1 * 0.4 + P2 * 0.5 + PI * 0.1
-
-*   **P1**: Prova 1 - Criar um campo de futebol com um joão bobo no gol e realizar um chute de pênalti com curva no ângulo;
-*   **P2**: Prova 2 - Criar um jogo para 2 jogadores local (split screen), carro com bexigas (representando as vidas), tiro de flechas, torres de laser (reflexão), itens sendo pegos com magnetismo e um pendulo com bola de obstaculo no meio da arena;
-*   **PI**: Projeto Integrado - Aplicar física no projeto interdisciplinar.
-
+*   Tutorial: criando a mecânica do jogo arkanoid
 
 
 ## Vídeos Interessantes
