@@ -8,7 +8,8 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ## Projetos
 
 ### Projeto 1 - Boliche
-*   Tutorial: [criando a mecânica do jogo de boliche](https://medium.com/@kleberandrade/criando-um-jogo-de-boliche-3f42964b185b?source=friends_link&sk=59955d80e98fecef135b323dfdfcffa3)
+*   [Criando a mecânica do jogo de boliche](https://medium.com/@kleberandrade/criando-um-jogo-de-boliche-3f42964b185b?source=friends_link&sk=59955d80e98fecef135b323dfdfcffa3)
+*   [A History Of Bowling In Video Games](https://kotaku.com/a-history-of-bowling-in-video-games-1832291078)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/bowling.gif" width="800"/>
