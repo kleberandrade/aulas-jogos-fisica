@@ -1,7 +1,5 @@
 # Física aplicada aos Jogos Digitais
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/48ad15780757465a9a8b592bf39c99f0)](https://app.codacy.com/app/kleberandrade/aulas-jogos-fisica?utm_source=github.com&utm_medium=referral&utm_content=kleberandrade/aulas-jogos-fisica&utm_campaign=Badge_Grade_Dashboard)
-
 Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do curso de [Jogos Digitais](http://www.fatec.edu.br/cursos/jogos-digitais/) na [Faculdade de Tecnologia de Americana](http://www.fatec.edu.br/). Todas as aulas são baseadas na aplicação dos conceitos de Física em pequenos projetos de jogos.
 
 ## Ferramentas
