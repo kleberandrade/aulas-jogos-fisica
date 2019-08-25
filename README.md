@@ -16,7 +16,12 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 </p>
 
 ### Projeto 2 - Breakout
--   Criando a mecânica do jogo breakout
+-   [Criando a mecânica do jogo breakout](https://medium.com/@kleberandrade/criando-a-mecânica-do-jogo-breakout-89e2a2977cd9)
+-   [A Era do Video Game](https://www.youtube.com/watch?v=o0IStvZywB0)
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/breakout.gif" width="800"/>
+</p>
 
 ### Projeto 3 - Joints (Pontes, Portas, Motores e Plantinhas)
 -   Brincando com Joints
