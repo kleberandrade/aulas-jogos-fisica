@@ -18,29 +18,37 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ### Projeto 2 - Breakout
 -   Criando a mecânica do jogo breakout
 
-### Projeto 3 - Joints
+### Projeto 3 - Joints (Pontes, Portas, Motores e Plantinhas)
 -   Brincando com Joints
 
-### Projeto 4 - Força de explosões
+### Projeto 4 - Força de Explosão
 -   Brincando com força de explosão
 
-### Projeto 5 - Basket
+### Projeto 5 - Basket (Arremesso livre)
 -   Criando a mecânica de arremessos de bolas no basket
 
-### Projeto 6 - Mini Golf (Magnus Effect)
+### Projeto 6 - Personagem (Mover e Pular)
+
+### Projeto 7 - Personagem (Escalar e Dash)
+-   Criando a mecânica de pênalti no futebol
+
+### Projeto 8 - Plataformas móveis
+-   Criando plataformas móveis
+
+### Projeto 9 - Esteiras, Molas e Alavancas
+
+### Projeto 10 - Barril giratório do Donkey Kong
+
+### Projeto 11 - Tecidos
+
+### Projeto 12 - Mini Golf (Magnus Effect)
 -   Criando a mecânica do jogo de mini golf
 -   [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
 
-### Projeto 7 - Pênalti
+### Projeto 13 - Pênalti
 -   Criando a mecânica de pênalti no futebol
 
-### Projeto 8 - Movimento de Personagem (Pulo, Pulo duplo e Dash)
--   Criando personagens que andam, pulam e dão dash
-
-### Projeto 9 - Plataformas móveis
--   Criando plataformas móveis
-
-### Projeto 10 - Pinball
+### Projeto 14 - Pinball
 -   Criando a mecânica de uma mesa de pinball
 
 ## Vídeos Interessantes
