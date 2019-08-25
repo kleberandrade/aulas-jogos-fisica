@@ -8,16 +8,40 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ## Projetos
 
 ### Projeto 1 - Boliche
-*   [Criando a mecânica do jogo de boliche](https://medium.com/@kleberandrade/criando-um-jogo-de-boliche-3f42964b185b?source=friends_link&sk=59955d80e98fecef135b323dfdfcffa3)
-*   [A History Of Bowling In Video Games](https://kotaku.com/a-history-of-bowling-in-video-games-1832291078)
+-   [Criando a mecânica do jogo de boliche](https://medium.com/@kleberandrade/criando-um-jogo-de-boliche-3f42964b185b?source=friends_link&sk=59955d80e98fecef135b323dfdfcffa3)
+-   [A History Of Bowling In Video Games](https://kotaku.com/a-history-of-bowling-in-video-games-1832291078)
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/bowling.gif" width="800"/>
 </p>
 
-### Projeto 2 - Arkanoid
-*   Tutorial: criando a mecânica do jogo arkanoid
+### Projeto 2 - Breakout
+-   Criando a mecânica do jogo breakout
 
+### Projeto 3 - Joints
+-   Brincando com Joints
+
+### Projeto 4 - Força de explosões
+-   Brincando com força de explosão
+
+### Projeto 5 - Basket
+-   Criando a mecânica de arremessos de bolas no basket
+
+### Projeto 6 - Mini Golf (Magnus Effect)
+-   Criando a mecânica do jogo de mini golf
+-   [Efeito Magnus](http://www.scielo.br/pdf/rbef/v37n3/0102-4744-rbef-37-3-3505.pdf)
+
+### Projeto 7 - Pênalti
+-   Criando a mecânica de pênalti no futebol
+
+### Projeto 8 - Movimento de Personagem (Pulo, Pulo duplo e Dash)
+-   Criando personagens que andam, pulam e dão dash
+
+### Projeto 9 - Plataformas móveis
+-   Criando plataformas móveis
+
+### Projeto 10 - Pinball
+-   Criando a mecânica de uma mesa de pinball
 
 ## Vídeos Interessantes
 *   [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
