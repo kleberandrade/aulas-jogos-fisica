@@ -39,6 +39,10 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 10 - Barril giratório do Donkey Kong
 
+### Atividade Avaliativa
+
+-   ????
+
 ### Projeto 11 - Tecidos
 
 ### Projeto 12 - Mini Golf (Magnus Effect)
@@ -50,6 +54,11 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Projeto 14 - Pinball
 -   Criando a mecânica de uma mesa de pinball
+
+## Avaliações passadas
+
+### Chute no ângulo com curva
+### Mario Kart Battle
 
 ## Vídeos Interessantes
 *   [A Física ns Vídeo Games (Nerdologia)](https://www.youtube.com/watch?v=fuZU0HLRbWA)
