@@ -27,7 +27,11 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 -   Brincando com Joints
 
 ### Projeto 4 - Força de Explosão
--   Brincando com força de explosão
+-   [Brincando com força de explosão](http://bit.ly/2lxFEme)
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/explosion.gif" width="800"/>
+</p>
 
 ### Projeto 5 - Basket (Arremesso livre)
 -   Criando a mecânica de arremessos de bolas no basket
