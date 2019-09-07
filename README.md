@@ -24,7 +24,11 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 </p>
 
 ### Projeto 3 - Joints (Pontes, Portas, Motores e Plantinhas)
--   Brincando com Joints
+-   [Trabalhando com Joints](https://medium.com/@kleberandrade/trabalhando-com-joints-na-unity-9eaacc7632c6)
+
+<p align="center">
+  <img src="https://miro.medium.com/max/940/1*aAONMAUIPi4dZ_Jj6u86Gg.gif" width="800"/>
+</p>
 
 ### Projeto 4 - Força de Explosão
 -   [Brincando com força de explosão](http://bit.ly/2lxFEme)
