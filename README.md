@@ -40,17 +40,15 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 ### Projeto 5 - Basket (Arremesso livre)
 -   Criando a mecânica de arremessos de bolas no basket
 
-### Projeto 6 - Personagem (Mover e Pular)
-
-### Projeto 7 - Personagem (Escalar e Dash)
--   Criando a mecânica de pênalti no futebol
-
-### Projeto 8 - Plataformas móveis
+### Projeto 6 - Plataformas móveis
 -   Criando plataformas móveis
 
-### Projeto 9 - Esteiras, Molas e Alavancas
+### Projeto 7 - Personagem (Andar, Pular e Dash)
+-   
 
-### Projeto 10 - Barril giratório do Donkey Kong
+### Projeto 8 - Esteiras, Molas e Alavancas
+
+### Projeto 9 - Barril giratório do Donkey Kong
 
 ### Atividade Avaliativa
 
