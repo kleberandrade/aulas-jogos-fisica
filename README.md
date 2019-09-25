@@ -52,8 +52,8 @@ Código fonte dos exemplos desenvolvidos na disciplina do quarto semestre do cur
 
 ### Atividade Avaliativa
 
--   Level design baseado na fase do Metaman de Megaman 2: https://youtu.be/yZamMSHKpX8?t=77
--   Level design e critérios de avaliação: http://bit.ly/2nfshb6
+-   Level design baseado na fase do Metalman de Megaman 2 e os critérios de avaliação: http://bit.ly/2nfshb6
+-   Video da fase do Metalman de Megaman 2: https://youtu.be/yZamMSHKpX8?t=77
 
 <p align="center">
   <img src="https://github.com/kleberandrade/aulas-jogos-fisica/blob/master/Screenshots/Prova%20%201.PNG" width="800"/>
